@@ -1,5 +1,9 @@
 # Docker com container RabbitMQ
 
+Docker
+NET 6
+Rabbit MQ
+
 Criação de um Docker e Baixar a imagem para instanciar o RabbitMQ
 
 1) Acessar a página do Docker, fazer download e instalar
