@@ -3,7 +3,7 @@
 Criação de um Docker e Baixar a imagem para instanciar o RabbitMQ
 
 1) Acessar a página do Docker, fazer download e instalar
-2) 
+
 https://www.docker.com/products/docker-desktop
 
 2) Como resolver o erro start engine
